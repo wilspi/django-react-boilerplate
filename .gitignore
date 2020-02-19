@@ -1,3 +1,18 @@
+# Custom
+.zsh-history
+static/
+django-react-boilerplate-dev/
+
+# PyCharm
+.idea
+
+# Mac
+._.DS_Store
+.DS_Store
+
+# node modules
+editor/frontend/node_modules
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
