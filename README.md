@@ -5,7 +5,7 @@
 ### Quick start
 Follow steps to quickly start development:  
 1. Replace `django-react-boilerplate` with your application name
-
+2. Replace `myapplication` with your application name
 
 ### Development
 * #### Setup
