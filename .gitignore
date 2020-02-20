@@ -11,7 +11,7 @@ django-react-boilerplate-dev/
 .DS_Store
 
 # node modules
-editor/frontend/node_modules
+myapplication/frontend/node_modules
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
